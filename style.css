@@ -37,7 +37,7 @@
 }
 .front{
     /* background: url('./image/profile.jpg'); */
-    background: url(./image/user.png);
+    background: url(./image/profile.png);
     background-size: cover;
     background-position: center;
     padding: 60px 40px;
